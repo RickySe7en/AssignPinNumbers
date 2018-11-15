@@ -1,0 +1,7 @@
+
+packages/*
+AssignPinNumbers/obj/*
+AssignPinNumbers/bin/*
+.vs/*
+UnitTest.AssignPinNumbers/obj/*
+UnitTest.AssignPinNumbers/bin/*
